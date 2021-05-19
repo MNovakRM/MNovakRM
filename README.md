@@ -1,4 +1,4 @@
-- ✨ Hi I'm Monica! ✨ 
+✨ Hi I'm Monica! ✨ 
 - 👀 I’m interested in Javascript, React.JS, and all things front-end! 
 - 🌱 I’m currently learning Wordpress & PHP
 
